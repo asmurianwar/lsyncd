@@ -28,7 +28,7 @@ for _, dir in ipairs(dirs) do
 
 		if target ~= nil and source ~= nil then
 			print (source .. ' --> ' .. target)
-      -- sync { here }
+      		-- sync { here }
 		end
 	end
 end
